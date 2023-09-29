@@ -1,6 +1,6 @@
 # Hello, I'm Esmay 👋
 
-!Esmay(https://github.com/Esmaay.png)
+![Esmay](https://github.com/Esmaay.png)
 
 I'm a passionate Software Developer based in The Netherlands. I love coding in Java & Typescript and I'm always exploring new technologies and learning new things.
 
@@ -27,4 +27,4 @@ You can also contact me via Discord: @esmaybe
 
 ## 📊 GitHub Stats
 
-!My GitHub Stats(https://github-readme-stats.vercel.app/api?username=Esmaay&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esmaay&show_icons=true&theme=dark)
