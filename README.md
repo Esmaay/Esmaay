@@ -27,5 +27,4 @@ You can also contact me via Discord: @esmaybe
 
 ## 📊 GitHub Stats
 
-!My GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Esmaay&show_icons=true&theme=dark
+!My GitHub Stats(https://github-readme-stats.vercel.app/api?username=Esmaay&show_icons=true&theme=dark)
