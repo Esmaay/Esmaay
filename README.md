@@ -8,7 +8,8 @@ I'm a passionate Software Developer based in The Netherlands. I love coding in J
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: Java, Javascript, PHP, HTML, CSS
+- Programming Languages: Java, Javascript, Typescript, PHP, HTML, CSS
+- Full-stack Development: NextJS
 - Front-end Development: React
 - Back-end Development: MySQL, MongoDB, Redis, Express
 - Minecraft: Spigot, NMS, Bungeecord, Velocity
@@ -17,7 +18,6 @@ Here are some of the technologies and tools I work with:
 
 I'm currently focused on improving my skills in development. Some of the topics I'm exploring include:
 
-- NextJS
 - Improve knowledge for packets
 
 ## 📫 Contact Me
