@@ -19,6 +19,7 @@ Here are some of the technologies and tools I work with:
 I'm currently focused on improving my skills in development. Some of the topics I'm exploring include:
 
 - Improve knowledge for packets
+- Game Development using Unreal/C++
 
 ## 📫 Contact Me
 
